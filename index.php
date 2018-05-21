@@ -64,7 +64,7 @@ register.</p>
 $host = "mkuser-mysqldbserver.mysql.database.azure.com";
 $user = "mkuser@mkuser-mysqldbserver";
 $pwd = "Marina123456789";
-$db = "ruapdb";
+$db = "ruapmk";
 
 /*$host = "localhost";
 $user = "mkuser";
