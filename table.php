@@ -2,7 +2,7 @@
  $host = "mkuser-mysqldbserver.mysql.database.azure.com";
  $user = "mkuser@mkuser-mysqldbserver";
  $pwd = "Marina123456789";
- $db = "ruapmk";
+ $db = "ruapmd";
  // $host = "127.0.0.1:52932";
  // $user = "azure";
  // $pwd = "6#vWHD_$";
